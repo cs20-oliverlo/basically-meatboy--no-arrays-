@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "meat-boy-font";
+  src: url("meat-boy-font.ttf");
+}
+
+body {
+  font-family: "meat-boy-font";
+  font-size: 13px;
+  color: white;
+  text-align: center;
+  background: black;
+  margin-top: 50px;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+}
+
+#my-canvas {
+  border: 1px solid white;
+}
